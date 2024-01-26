@@ -1,11 +1,11 @@
-// pages/index.tsx
 import Link from 'next/link';
+import Image from 'next/image'; // Import Image component from next/image
 
 const Header: React.FC = () => (
   <header className="header">
     <div className="logo">
       {/* Your Company Logo Component */}
-      <img src="/parallo-logo.png" alt="Company Logo" />
+      <Image src="/parallo-logo.png" alt="Company Logo" width={200} height={100} />
     </div>
     <nav className="navigation">
       <ul>
@@ -28,7 +28,7 @@ const Home: React.FC = () => (
       <div className="text">
         <h1>Kevin Pacis</h1>
         <h4> Junior DevOps/Cloud Engineer</h4>
-        <p className= "quote-p">&quot;So you're telling me, I have to get experience before I get experience?&quot; -Every junior in Tech</p>
+        <p className="quote-p">&quot;So you're telling me, I have to get experience before I get experience?&quot; -Every junior in Tech</p>
         <p> Meet Kevin, an aspiring junior DevOps/Cloud engineer with a keen focus on obtaining AWS or Azure certifications.
            Proficient in cloud platforms, Kevin excels in troubleshooting and fostering effective collaboration between development and operations teams.
             His expertise extends to automation tools like AWS OpsWorks and Docker, reflecting a dedication to optimizing operational efficiency with a strong emphasis on security best practices.</p>
@@ -41,7 +41,7 @@ From CI/CD pipelines to version control and monitoring tools, he is well-equippe
       </div>
       <div className="image">
         {/* Your Image Component */}
-        <img src="/IMG_0537-removebg-preview.png" alt="Company Image" />
+        <Image src="/IMG_0537-removebg-preview.png" alt="Company Image" width={300} height={350} />
       </div>
     </div>
   </div>
