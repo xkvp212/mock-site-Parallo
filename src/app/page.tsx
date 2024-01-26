@@ -28,16 +28,16 @@ const Home: React.FC = () => (
       <div className="text">
         <h1>Kevin Pacis</h1>
         <h4> Junior DevOps/Cloud Engineer</h4>
-        <p className="quote-p">&quot;So you're telling me, I have to get experience before I get experience?&quot; -Every junior in Tech</p>
+        <p className="quote-p">&quot;So you&apos;re telling me, I have to get experience before I get experience?&quot; -Every junior in Tech</p>
         <p> Meet Kevin, an aspiring junior DevOps/Cloud engineer with a keen focus on obtaining AWS or Azure certifications.
            Proficient in cloud platforms, Kevin excels in troubleshooting and fostering effective collaboration between development and operations teams.
             His expertise extends to automation tools like AWS OpsWorks and Docker, reflecting a dedication to optimizing operational efficiency with a strong emphasis on security best practices.</p>
         <p> Adaptable and forward-thinking, Kevin remains at the forefront of emerging technologies, bringing a comprehensive skill set to the table. 
 From CI/CD pipelines to version control and monitoring tools, he is well-equipped to contribute meaningfully to the dynamic field of cloud engineering."</p>
-        <p>When he's not coding or on the cloud, Kevin is passionate about his family and hobbies. 
+        <p>When he&apos;s not coding or on the cloud, Kevin is passionate about his family and hobbies. 
           He loves spreading positivity with his candlemaking. 
           He grows his favorite protein source, Oyster Mushrooms!
-          He's voraciously consuming parenting books, and enjoys spending time with his wife, family, and friends.</p>
+          He&apos;s voraciously consuming parenting books, and enjoys spending time with his wife, family, and friends.</p>
       </div>
       <div className="image">
         {/* Your Image Component */}
