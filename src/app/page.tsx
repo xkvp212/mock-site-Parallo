@@ -32,7 +32,8 @@ const Home: React.FC = () => (
         <p> Meet Kevin is an aspiring junior DevOps/Cloud engineer with a keen focus on obtaining AWS or Azure certifications.
            Proficient in cloud platforms, Kevin excels in troubleshooting and fostering effective collaboration between development and operations teams.
            Additionally, Kevin possesses skills in Infrastructure as Code technologies like AWS Cloudwatch and Azure Resource Manager.
-            His expertise extends to automation tools like AWS OpsWorks and Docker, reflecting a dedication to optimizing operational efficiency with a strong emphasis on security best practices.</p>
+            His expertise extends to automation tools like AWS OpsWorks and Docker, reflecting a dedication to optimizing operational efficiency with a strong emphasis on security best practices.
+            Additionally, Kevin possesses skills in Infrastructure as Code (IaC) technologies like CloudWatch and Azure Resource Manager</p>
         <p> Adaptable and forward-thinking, Kevin remains at the forefront of emerging technologies, bringing a comprehensive skill set to the table. 
 From CI/CD pipelines to version control and monitoring tools, he is well-equipped to contribute meaningfully to the dynamic field of cloud engineering.</p>
         <p>When he&apos;s not coding or on the cloud, Kevin is passionate about his family and hobbies. 
