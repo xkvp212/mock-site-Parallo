@@ -33,7 +33,7 @@ const Home: React.FC = () => (
            Proficient in cloud platforms, Kevin excels in troubleshooting and fostering effective collaboration between development and operations teams.
             His expertise extends to automation tools like AWS OpsWorks and Docker, reflecting a dedication to optimizing operational efficiency with a strong emphasis on security best practices.</p>
         <p> Adaptable and forward-thinking, Kevin remains at the forefront of emerging technologies, bringing a comprehensive skill set to the table. 
-From CI/CD pipelines to version control and monitoring tools, he is well-equipped to contribute meaningfully to the dynamic field of cloud engineering."</p>
+From CI/CD pipelines to version control and monitoring tools, he is well-equipped to contribute meaningfully to the dynamic field of cloud engineering.</p>
         <p>When he&apos;s not coding or on the cloud, Kevin is passionate about his family and hobbies. 
           He loves spreading positivity with his candlemaking. 
           He grows his favorite protein source, Oyster Mushrooms!
