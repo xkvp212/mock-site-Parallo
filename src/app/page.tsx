@@ -5,7 +5,7 @@ const Header: React.FC = () => (
   <header className="header">
     <div className="logo">
       {/* Your Company Logo Component */}
-      <Image src="/parallo-logo.png" alt="Company Logo" width={200} height={100} />
+      <Image src="/parallo-logo.png" alt="Company Logo" width={210} height={80} />
     </div>
     <nav className="navigation">
       <ul>
@@ -29,11 +29,9 @@ const Home: React.FC = () => (
         <h1>Kevin Pacis</h1>
         <h4> Junior DevOps/Cloud Engineer</h4>
         <p className="quote-p">&quot;So you&apos;re telling me, I have to get experience before I get experience?&quot; -Every junior in Tech</p>
-        <p> Kevin is an aspiring junior DevOps/Cloud engineer with a keen focus on obtaining AWS or Azure certifications.
-           Proficient in cloud platforms, Kevin excels in troubleshooting and fostering effective collaboration between development and operations teams.
-           Additionally, Kevin possesses skills in Infrastructure as Code technologies like AWS Cloudwatch and Azure Resource Manager.
-            His expertise extends to automation tools like AWS OpsWorks and Docker, reflecting a dedication to optimizing operational efficiency with a strong emphasis on security best practices.
-            Additionally, Kevin possesses skills in Infrastructure as Code (IaC) technologies like CloudWatch and Azure Resource Manager.</p>
+        <p> Kevin is an aspiring junior DevOps/Cloud engineer dedicated to completing AWS or Azure certifications while actively engaging in cloud projects and hands-on exploration of the cloud console. Proficient in troubleshooting and fostering collaboration, he excels in cloud platforms and Infrastructure as Code (IaC) technologies like AWS CloudWatch and Azure Resource Manager. Kevin's expertise extends to automation tools like AWS OpsWorks and Docker, emphasizing operational efficiency and security best practices.
+
+</p>
         <p> Adaptable and forward-thinking, Kevin remains at the forefront of emerging technologies, bringing a comprehensive skill set to the table. 
 From CI/CD pipelines to version control and monitoring tools, he is well-equipped to contribute meaningfully to the dynamic field of cloud engineering.</p>
         <p>When he&apos;s not coding or on the cloud, Kevin is passionate about his family and hobbies. 
