@@ -29,7 +29,7 @@ const Home: React.FC = () => (
         <h1>Kevin Pacis</h1>
         <h4> Junior DevOps/Cloud Engineer</h4>
         <p className="quote-p">&quot;So you&apos;re telling me, I have to get experience before I get experience?&quot; -Every junior in Tech</p>
-        <p> Kevin is an aspiring junior DevOps/Cloud engineer dedicated to completing AWS or Azure certifications while actively engaging in cloud projects and hands-on exploration of the cloud console. Proficient in troubleshooting and fostering collaboration, he excels in cloud platforms and Infrastructure as Code (IaC) technologies like AWS CloudWatch and Azure Resource Manager. Kevin's expertise extends to automation tools like AWS OpsWorks and Docker, emphasizing operational efficiency and security best practices.
+        <p> Kevin is an aspiring junior DevOps/Cloud engineer dedicated to completing AWS or Azure certifications while actively engaging in cloud projects and hands-on exploration of the cloud console. Proficient in troubleshooting and fostering collaboration, he excels in cloud platforms and Infrastructure as Code (IaC) technologies like AWS CloudWatch and Azure Resource Manager. Kevin&apos;s expertise extends to automation tools like AWS OpsWorks and Docker, emphasizing operational efficiency and security best practices.
 
 </p>
         <p> Adaptable and forward-thinking, Kevin remains at the forefront of emerging technologies, bringing a comprehensive skill set to the table. 
