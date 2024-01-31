@@ -11,4 +11,5 @@ const generateStaticParams = async () => {
     },
   };
   
+  
   export { generateStaticParams, serverOptions };
