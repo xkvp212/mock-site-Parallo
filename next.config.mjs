@@ -1,5 +1,9 @@
-
 export default {
-    // ... other configurations
-    output: 'export',
+    exportPathMap: async function (defaultPathMap) {
+      return {
+        '/': { page: '/' },
+        // Add other pages as needed
+      };
+    },
   };
+  
