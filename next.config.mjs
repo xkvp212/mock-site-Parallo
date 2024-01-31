@@ -1,9 +1,14 @@
-export default {
-    exportPathMap: async function (defaultPathMap) {
-      return {
-        '/': { page: '/' },
-        // Add other pages as needed
-      };
+const generateStaticParams = async () => {
+    return {
+      '/': { page: '/' },
+      // Add other pages as needed
+    };
+  };
+  
+  const serverOptions = {
+    server: {
+      port: 3001, // Specify the desired port number
     },
   };
   
+  export { generateStaticParams, serverOptions };
