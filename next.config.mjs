@@ -10,6 +10,12 @@ const generateStaticParams = async () => {
       port: 3001, // Specify the desired port number
     },
   };
+
+  /** @type {import('next').NextConfig} */
+const nextConfig = {
+    output:'export',
+  };
   
   
-  export { generateStaticParams, serverOptions };
+  /* module.exports = nextConfig*/
+  export { generateStaticParams, serverOptions, nextConfig };
