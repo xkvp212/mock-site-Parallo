@@ -5,7 +5,7 @@ const Header: React.FC = () => (
   <header className="header">
     <div className="logo">
       {/* Your Company Logo Component */}
-      <Image src="/parallo-logo.png" alt="Company Logo" width={210} height={80} />
+      <Image src="./parallo-logo.png" alt="Company Logo" width={210} height={80} />
     </div>
     <nav className="navigation">
       <ul>
@@ -41,7 +41,7 @@ From CI/CD pipelines to version control and monitoring tools, he is well-equippe
       </div>
       <div className="image">
         {/* Your Image Component */}
-        <Image src="/IMG_0537-removebg-preview.png" alt="Company Image" width={300} height={350} />
+        <Image src="./IMG_0537-removebg-preview.png" alt="Company Image" width={300} height={350} />
       </div>
     </div>
   </div>
